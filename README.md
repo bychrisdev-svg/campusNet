@@ -111,5 +111,4 @@ El sistema contempla tres roles:
 ### Autor
 
 Christopher Osorio P
-
-GitHub: @bychrisdev-svg
+Hildebrandon Tangarife Cardona
